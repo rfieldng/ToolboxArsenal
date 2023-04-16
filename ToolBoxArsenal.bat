@@ -1,6 +1,6 @@
 mvcls
 echo off
-TITLE "Strick Back - Team Rouge(Red)"
+TITLE "Strike Back - Team Rouge(Red)"
 :MENU
 ECHO *** Warning: Created By Team Rouge(Red) ***
 ECHO ...............................................
